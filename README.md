@@ -20,13 +20,7 @@ streamlit run app.py
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud
-1. Push this project to a **GitHub repository**
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Click **“New App” → Connect GitHub → Select Repo**
-4. Choose the `main` branch and file `app.py`
-5. Click **Deploy**
-
+Link to website : https://rafiatestmedapp.streamlit.app/ 
 ---
 
 ## 🧠 Example Use
